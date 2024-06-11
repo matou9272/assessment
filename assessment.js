@@ -73,6 +73,7 @@ const answers = [
 ];
 
 
+
 let sumOfCharCode = 0;
 /**
  * 名前の文字列を渡すと診断結果を返す関数
